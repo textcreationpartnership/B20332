@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act published by the General Assembly of Scotland being a forme of examination at the speciall desire of the Kirke, by them thought to be so needfull, that every pastor exhort his flocke to buy the said booke and reade the same in their families, whereby they may be better instructed, and that the same may be read and learned in lector schooles.</title>
+            <author>Church of Scotland.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20332</idno><idno type="EEBO-CITATION">11184995</idno>
+  <idno type="VID">204867</idno>
+  <idno type="EEBO-PROQUEST">2240914457</idno>
+  
+            <idno type="STC">Wing C4196B</idno>
+            <idno type="OCLC">11184995</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1437:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act published by the General Assembly of Scotland being a forme of examination at the speciall desire of the Kirke, by them thought to be so needfull, that every pastor exhort his flocke to buy the said booke and reade the same in their families, whereby they may be better instructed, and that the same may be read and learned in lector schooles.</title>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>First printed at Edinburg  by R.W.  And now reprinted at London by B. Alsop and are to be sold by Henry Walker,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Catechisms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204867:1"/>
+            <pb facs="tcp:204867:1"/>
+            <p>
+               <hi>AN</hi> ACT PUBLISHED BY THE GENERAL ASSEMBLY OF SCOTLAND Being a Forme of Examination at the speciall Desire of the Kirke; by them thought to be so needfull, that every Pastor exhort his Flocke to buy the said <hi>Booke,</hi> and reade the same in their Families; whereby they may be better instructed.</p>
+            <p>And that the same may he read, and learned in Lector Schooles.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown</figDesc>
+            </figure>
+            <p>
+               <hi>First printed at Edinburg, by R. VV. And now reprinted at London by B. Alsop,</hi> and are to be sold by <hi>Henry Walker,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204867:2"/>
+            <pb facs="tcp:204867:2"/>
+            <head>AN Act published by the generall Assembly of SCOTLAND.</head>
+            <div n="1" type="part">
+               <head>1 Of our miserable bondage through Adam,</head>
+               <p>Q. <hi>VVHat are we by nature?</hi> A. The Chil<g ref="char:EOLhyphen"/>dren of Gods wrath, <hi>Ephes.</hi> 2.3.</p>
+               <p>Q. <hi>Were we thus created of God?</hi>
+               </p>
+               <p>A No, for he made us to his own image, <hi>Gen.</hi> 1.26.</p>
+               <p>Q. <hi>How came we to this miserie?</hi> A. Through the fall of Adam from God. <hi>Gen.</hi> 3.</p>
+               <p>Q. <hi>What things came to us by that fall?</hi> A. Originall sin and natu<g ref="char:EOLhyphen"/>rall corrupt on. <hi>Rom.</hi> 5.28.</p>
+               <p>Q. <hi>What power have we to turne to God?</hi> A. None at all, for wee are dead in sinne. <hi>Ephes.</hi> 2.</p>
+               <p>Q. <hi>What is the punishment of our sinne?</hi> A. Death eternall both in body and soule, <hi>Rom.</hi> 6.23.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2, Of our redemption by Christ.</head>
+               <p>Q. <hi>WHo may deliver us from this bondage?</hi> A. God only who bringeth life out of death.</p>
+               <p>Q. <hi>How know we that he will doe it?</hi> A. By his promise, and sen<g ref="char:EOLhyphen"/>ding his sonne Christ Iesus in our flesh. <hi>Ioh.</hi> 3.</p>
+               <p>Q. <hi>What kind of person is Christ?</hi> A. Perfect God and perfect man without sin. <hi>Luke.</hi> 1.31.</p>
+               <p>Q. <hi>What needed this wonderfull union?</hi> A. That hee might bee, meete Medator for us.</p>
+               <pb facs="tcp:204867:3"/>
+               <p> Q <hi>How did he redeeme us?</hi> A Through his obedience to the Law, and death of the Crosse. <hi>Philip.</hi> 2.</p>
+               <p>Q. <hi>Suffered he onely naturall death?</hi> A. No, but he suffered also the curse of God, in body and soule, <hi>Gal.</hi> 3.</p>
+               <p>Q. <hi>How know wee, that his death brought life to us?</hi> A. By his glo<g ref="char:EOLhyphen"/>rious Resurrection and Ascension.</p>
+               <p>Q. <hi>Wherefore that?</hi> A. For if he hath not satisfied for all our sins perfectly, he hath not risen, nor we by him 1 <hi>Cor.</hi> 15.</p>
+               <p>Q <hi>Is it needfull, that we beleeve these Mysteries?</hi> A. No doubt, but yet that is not enough, <hi>Iam.</hi> 2.</p>
+               <p>Q. <hi>What more is required?</hi> A. That we be made partakers of Christ; and his merits, <hi>Iohn</hi> 15.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3. <hi>Of our participation with Christ.</hi>
+               </head>
+               <p>Q <hi>HOw is that wrought?</hi> A. Through his continuall intercession for us in heaven, <hi>Ephes.</hi> 5.</p>
+               <p>Q. <hi>Declare how that is done?</hi> A. Hereby the holy spirit is sent, <hi>Iohn</hi> 14.16.</p>
+               <p>
+                  <hi>Q. VVhat doth the spirit in this worke:</hi> A. He offereth Christ and his graces to us, and moveth us to receive him.</p>
+               <p>Q. <hi>How doth he offer Christ to us?</hi> A. By the preaching of the E<g ref="char:EOLhyphen"/>vangell, <hi>Rom.</hi> 10.</p>
+               <p>Q. <hi>How doth he move us to receive him?</hi> A. Through printing in our hearts true faith in Christ, <hi>Act.</hi> 16.14.</p>
+               <p>Q. <hi>What thing is faith in Christ?</hi> A. A sure perswasion that he is the onely Saviour of the world, but ours in speciall, who beleeeeth in him, <hi>Iohn</hi> 6.</p>
+               <p>Q. <hi>VVhat doth this faith worke?</hi> A. Our inseparable Union with Christ, and his graces, <hi>Ephes.</hi> 5.</p>
+               <p>Q. <hi>VVhat is the first fruit f this union?</hi> A. A remission of our sins, and imputation of Justice, <hi>Rom.</hi> 6.19,</p>
+               <p>Q. <hi>VVhich is the next fruit of our union with him?</hi> A. Our sanctifi<g ref="char:EOLhyphen"/>cation, and regeneration to the Image of God, <hi>Iohn</hi> 3.</p>
+               <p>Q. <hi>Who doth this, and how?</hi> A. The holy spirit through our union with Christ, in his death, buriall, and resurrection, <hi>Rom.</hi> 6.</p>
+               <p>Q. <hi>What are the chiefe parts of our regeneration?</hi> A. Mortification of sin, and rising to righteousnesse, <hi>Rom.</hi> 6.</p>
+               <p>Q. <hi>How know we sinne and righteousnesse?</hi> A. By the just and per<g ref="char:EOLhyphen"/>fect Law of God, <hi>Rom.</hi> 7.</p>
+            </div>
+            <div n="4" type="part">
+               <pb facs="tcp:204867:3"/>
+               <head>4. <hi>Of the</hi> Word.</head>
+               <p>Q. <hi>WHere shall we finde the word of God?</hi> A. Onely in the holy Scriptures, <hi>Rom.</hi> 15. Q. <hi>Are the Scriptures sufficient for our instruction?</hi> A. No doubt, as the Apostles doe testifie, <hi>Iohn</hi> 20.31. <hi>Gal.</hi> 1.8.2. <hi>Tim.</hi> 3.16. Q. <hi>How should we receive and use the word?</hi> A. We should reade it privately and publikly with all reverence <hi>Deut.</hi> 31.21 Q <hi>Is this sufficient for our instruction?</hi> A No, if publike tea<g ref="char:EOLhyphen"/>ching may be had. <hi>Eph.</hi> 4<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11. Q <hi>VVherefore that?</hi> A. For as God raiseth publike teachers and Pastors, so hee hath commanded us to heare them. <hi>Mal.</hi> 2. Q <hi>How long should we conitnue in this Schoole?</hi> A. All the daies of our lives, seeing we are ignorant, forgetfull, and easie to be deceived. <hi>Col.</hi> 3 16. Q. <hi>V What then serve the Sacraments</hi> A. They are added for our further comfort and admonition as a visi<g ref="char:EOLhyphen"/>ble word. <hi>Exod.</hi> 12. <hi>Gen.</hi> 17.</p>
+            </div>
+            <div n="5" type="part">
+               <head>5. Of our liberty to serve God,</head>
+               <p>Q. <hi>WHat good things may we do now being thus regenerated?</hi> A. We may serve our God freely and uprightly. <hi>Rom.</hi> 12. Q <hi>May we do it perfectly according to the Law?</hi> A, No truly, for our re<g ref="char:EOLhyphen"/>generation is not perfect. <hi>Gal.</hi> 5. <hi>Eccles.</hi> 7.22. Q. <hi>VVhat followeth upon that?</hi> A. A certain rebellion of the flesh against the Spirit. <hi>Ro?</hi> 7. Q. <hi>Is not this rebellion cursed by the law?</hi> A. Yea truly, but yet it is not imputed to us. 2. <hi>Cor.</hi> 5.19. Q. <hi>VVherefore that, seing it is sinne, and the roote of all our sins?</hi> A. Because Christ satisfied all the points of the law for us. <hi>Rom.</hi> 3. Q. <hi>VVhat are we then who beleeve in Christ?</hi> A. Just in him, but sinners in our selves. <hi>Rom.</hi> 8. Q, <hi>VVhat craveth this confession of us?</hi> A. constant faith in Christ, and continu<g ref="char:EOLhyphen"/>all repentance. Q. <hi>VVhat then is our only joy in life and death.</hi> A. that all our sins bypast, present and to come, are buryed: and Christ onely is made our Wisdome, Justification, Sanctification, redempti<g ref="char:EOLhyphen"/>on. 1. <hi>Co.</hi> 1. Q. <hi>VVhat fruit commeth of this faith?</hi> A. A peace of conscience, &amp; joy in the spirit in all out troubles within &amp; without. <hi>Rom.</hi> 5.2. <hi>Cor.</hi> 6.4. Q. <hi>VVhat shall we gather of this whole discourse?</hi> A, how miserable we are through <hi>Adam,</hi> and how blessed through Christ. <hi>Phil.</hi> 3.8. Q. <hi>When should we remember of this doctrine. A.</hi> At all times, but chiefely when we are touched with a proud opi<g ref="char:EOLhyphen"/>nion of our own worthinesse, or are troubled in consience for sinne. <hi>Luk.</hi> 18.19. Q. <hi>Then this Meditation serveth for a preparation to the holy Sacraments. A.</hi> Yea truly, if they be rightly considered.</p>
+            </div>
+            <div n="6" type="part">
+               <pb facs="tcp:204867:4"/>
+               <head>6 Of the Sacraments.</head>
+               <p>Q. <hi>Declare that in Baptisme.</hi> A. Wee see there the seale of our spirituall filthinesse, through our communion with <hi>Adam</hi> and our purgation by our communion with Christ. Q. <hi>Declare the same in the Supper?</hi> We fee, feele, and taste there also, the seale of our spirituall wants, and death through Adam, and likewise of our spirituall treasures and life through Christ only. Q <hi>How contract we our spirituall filthinesse from Adam? A</hi> Through our naturall com<g ref="char:EOLhyphen"/>munion with him, <hi>Romanes.</hi> 5. Q <hi>Hovv camevvee to our spirituall purgation, and life by Christ?</hi> Q. Through our spirituall communion with our second <hi>Adam,</hi> head and spouse. <hi>Ephes.</hi> 5.30. Q. <hi>Doth the word and the Sacraments work this communion?</hi> No, for it is the worke of the spirit only. <hi>Eph.</hi> 5. Q. <hi>Whereunto doe the word and sacraments leade us? A.</hi> Directly to the crosse and death of Christ. 1. <hi>Cor.</hi> 1. Q. <hi>Wherefore that? A,</hi> Because through his crosse and death, the wrath of God was quenched, and all his blessings made ours. <hi>Galat.</hi> 3.13.14. Q. <hi>Why was this high mysterie, repre<g ref="char:EOLhyphen"/>sented by these weake and common elements? A.</hi> Because they ex<g ref="char:EOLhyphen"/>presse most lively our spirituall purging and feeding, which we have by Christ. <hi>Iohn</hi> 6. Q. <hi>When doth he these things t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> us in very deede? A.</hi> When he is so joyned with us, and we with him, that he abideth in us, and we in him spiritually. <hi>Iohn.</hi> 15.4. Q. <hi>How is this union and abiding expressed here? A.</hi> By naturall washing, eating, drinking, digesting feeding and abiding in us. Q. <hi>How may we feele and know this spirituall abiding in us? A.</hi> By the testimony of the spirit in us, and externall actions agreeable to Christ in us. <hi>Mat.</hi> 7. Q. <hi>Then Christ is not an idle guest in us? A.</hi> No truly, for he came not only with water and bloud, but also with the spirit, to assure us (in some measure) of his presence in us. <hi>Iohn</hi> 5.6.</p>
+            </div>
+            <div n="7" type="part">
+               <head>7 Of Baptisme.</head>
+               <p>Q. <hi>VVhati signifieth Baptisme unto us? A.</hi> That we are filthy by nature and are purged by the blood of Christ <hi>Tit.</hi> 3.5. Q, <hi>VVhat meaneth this our union with the vvater?</hi> A. Our spi<g ref="char:EOLhyphen"/>rituall union with Jesus Christ. <hi>Ro.</hi> 6. Q. <hi>What follovveth upon this our union vvith him?</hi> A. Remission of sins and regeneration. <hi>Rom.</hi> 6. Q. <hi>From vvhence commeth our regeneration?</hi> A From the communion with the death, buriall, and resurrection of Christ. <hi>Rom.</hi> 6. Q. <hi>Hovv long, and by vvhat vvay doth Baptisme vvorke in us?</hi> A. All the dayes of one life, through Faith and Repentance. 1. <hi>Cor.</hi> 6.19. Q, <hi>Hovv then are Infants baptized? A.</hi> Upon the promise made to the faith<g ref="char:EOLhyphen"/>full and their seede, <hi>Gen.</hi> 17. Q. <hi>Hovv doth Baptisme differ from the
+<pb facs="tcp:204867:4"/>Supper?</hi> A. In the elements, action, rites signification, and use. Q. <hi>Wherefore is Baptisme but once ministred? A.</hi> It is enough to be received once in the house of God. <hi>Rom.</hi> 9.16. Q. <hi>Declare the cause of that. A.</hi> For they are never casten out, who are once tru<g ref="char:EOLhyphen"/>ly received in his societie. <hi>Iohn</hi> 6.37. Q. <hi>Why is the supp<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r so oft ministred? A.</hi> We have neede to be fed continually, <hi>Ioh.</hi> 6.55. <hi>Q. Why is not the supper ministred to infants? A.</hi> Because they cannot examine themselves. 1. <hi>Cor.</hi> 11.</p>
+            </div>
+            <div n="8" type="part">
+               <head>8 Of the Supper.</head>
+               <p>Q. <hi>VVHat signifieth the action of the supper? A.</hi> That our Souls are fed spiritually, by the body and bloud of Jesus Christ, <hi>Iohn.</hi> 6.54. Q. <hi>When is this done? A.</hi> When we feele the efficacie of his death in our conscience by the spirit of faith. <hi>Ioh.</hi> 6.63. Q. <hi>Why is this Sacrament given in meat and drink? A,</hi> To seale up our neere conjunction with Christ. Q. <hi>Wherefore is both meate and driak gi<g ref="char:EOLhyphen"/>ven? A.</hi> To testifie, that Christ is the whole foode of our souls. <hi>Iohn.</hi> 6. Q. <hi>Is Christs Body in the Elements? A.</hi> No, but it is in Heaven. <hi>Act.</hi> 1.11. Q. <hi>Why then is the Element called his body? A</hi> Because it is a sure seale of his body, given to our soules. Q <hi>To whom to should this Sacrament be given. A</hi> To the faithfull only, who can examine themselves. Q <hi>Wherein shall they examine themselves? A,</hi> In faith and repentance, with their fruits. Q. <hi>What should the Pa<g ref="char:EOLhyphen"/>stors doe, when men are negligent, and abuse the Sacraments? A.</hi> They should use the order of Discipline established in the word.</p>
+            </div>
+            <div n="9" type="part">
+               <head>9 Of Discipline.</head>
+               <p>Q. <hi>VVHo should use this discipline. A.</hi> The pastors and Elders, by their mutuall consent and judgment. Q. <hi>What is the office of the Eldership. A</hi> To watch upon their flock, and excercise the discipline Q. <hi>How is this done?</hi> A. By private and publike admonition, and o<g ref="char:EOLhyphen"/>ther censures of the Kirk, as neede requireth. Q. <hi>Who ought to bee excluded from the Sacraments?</hi> A. All infidels, and publique slande<g ref="char:EOLhyphen"/>re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. Q. <hi>Wherefore are these excluded</hi> A. Lest they should hurt them<g ref="char:EOLhyphen"/>selves, slander the Kirk, and dishonour God.</p>
+            </div>
+            <div n="10" type="part">
+               <head>10 Of the Magistrate.</head>
+               <p>Q. <hi>VVHat is the office of the Christian Magistrate in the Kirk?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He should defend the true religion, and discipline, and punish all troublers and contemners of the same.</p>
+            </div>
+            <div n="11" type="part">
+               <head>Of the Table in speciall.</head>
+               <p>Q. <hi>WHy use we a Table here, and not an Altar as the Fathers did at God his Commandement?</hi> A, Because we conveene not to offer a Sacrifice for sinne, but to eate and drink of that Sacrifice, which Christ once offered upon the crosse for us.</p>
+               <pb facs="tcp:204867:5"/>
+               <p> Q <hi>What protest we, when we come to the table?</hi> A. That we are dead in our selves, and seek our life onely in Christ. Q. <hi>Shall this confession of our unworthinesse be a stay to come to the Com<g ref="char:EOLhyphen"/>munion?</hi> A. No truly, but rather a preparation to the same if faith and repentance be with it. <hi>Mark</hi> 2.17. Q. <hi>Wherefore is there mention made here of Christ his body &amp; bloud severally?</hi> A. To testifie his death, by the quick, onely he was made our spirituall meat and drinke, <hi>Iohn</hi> 6. Q. <hi>For what cause is this</hi> action <hi>called the Communion?</hi> A. Because it is the true cause of our mutuall society with Christ, in all things, good, and and evill. Q. <hi>Declare how that is performed?</hi> A. Hereby, he re<g ref="char:EOLhyphen"/>moveth all evill things from us, which we have by nature, &amp; we receive of him, all good things, which wee want by na<g ref="char:EOLhyphen"/>ture. Q. <hi>Declare these things more plainly?</hi> A. The wrath of God, and sinne is removed, which we have by nature; &amp; the favour of God, and adoption, with the joy of heaven is resto<g ref="char:EOLhyphen"/>red to us, the which things we have not by nature. <hi>Rom,</hi> 8. Q. <hi>What thing then may the faithfull soule say?</hi> A. Now live J, not I, but Christ liveth in me: it is God that justifieth, who shall condemn. Q <hi>Let us therfore give thanks, and passe to this holy action, every one of us, saying, and singing in his heart:</hi> The Lord is the portion of mine inheritance, &amp; of my cup, thou wilt maintain my lot, the lines are fallen unto me in pleasant places, yea, I have a faire heritage, <hi>Psal,</hi> 6.5. A. Let it be done so, with heart &amp; mouth, to the confusion of all Idolaters, &amp; glory of our God.</p>
+            </div>
+            <div n="12" type="part">
+               <head>The end of our redemption.</head>
+               <p>Qu <hi>TO what end are we thus redeemed, and brought in hope of that endlesse joy to come?</hi> A. To move us ef<g ref="char:EOLhyphen"/>fectually, to deny all ungodlinesse, worldly lusts, and unrighteousnesse, and so live Godly, soberly, and righte<g ref="char:EOLhyphen"/>ously in this present world: looking for the comming of Christ, for our full redemption, <hi>Titus</hi> 2, 12. Q <hi>What shall bee the finall end of all these graces?</hi> A. God shall be glorified for ever in mercy, &amp; we shall enjoy that endlesse life with <hi>Christ</hi> our head: to whom with the Father, and the holy Spirit, be all honour, and glory for ever, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:204867:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
